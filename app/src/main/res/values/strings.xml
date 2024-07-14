@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sport crono app</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="repetitions">Repetitions</string>
+    <string name="sets">Sets</string>
+    <string name="unlimited">Unlimited</string>
+
+</resources>
